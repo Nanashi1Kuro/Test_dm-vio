@@ -4,3 +4,6 @@
 [submodule "ws/dm-vio-ros"]
 	path = ws/dm-vio-ros
 	url = https://github.com/Nanashi1Kuro/dm-vio-ros
+[submodule "ws/dm-vio-python-tools"]
+	path = ws/dm-vio-python-tools
+	url = https://github.com/Nanashi1Kuro/dm-vio-python-tools
