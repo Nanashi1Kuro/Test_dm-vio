@@ -1,0 +1,3 @@
+[submodule "ws/dm-vio"]
+	path = ws/dm-vio
+	url = https://github.com/Nanashi1Kuro/dm-vio.git
