@@ -76,5 +76,6 @@ WORKDIR /home/user/local/workspace/Test_dm-vio/mr_ws/src
 RUN export DMVIO_BUILD=/packages/dm-vio/build
 RUN git clone https://github.com/Nanashi1Kuro/dm-vio-ros.git
 RUN source /opt/ros/noetic/setup.bash
-RUN catkin_make
+#WORKDIR /home/user/local/workspace/Test_dm-vio/mr_ws
+#RUN ./build.sh
 
